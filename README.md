@@ -1,19 +1,19 @@
 # commercial-roofing-contractor-project-os
-# Commercial Roofing Contractor Project OS Back-Office Operating System & Job Costing Ledger
+Corporate Operations Back-Office Dashboard & Standalone Management Engine
 
-Welcome to the official repository for the Commercial Roofing Contractor Project OS—a permanent-ownership, break-proof back-office infrastructure engineered exclusively for elite Microsoft Excel (.xlsx) workbooks and cloud Notion dashboards. Purpose-built for roofing estimators, project managers, and sheet metal foremen, this standalone architecture calculates complex roof square material yields, progress billing draws, and crew labor splits natively on background automation.
+<p align="center">
+  <img src="preview.png" width="85%" style="max-width: 400px; border-radius: 8px;">
+</p>
 
-🔒 **100% Corporate Vault-Secured:** This Excel Ledger is completely Macro-Free, formula-locked, and guaranteed to clear all strict corporate firewalls instantly.
+### 🔑 SECURE ENTERPRISE PROCURE CONDUIT
+Bypass bloated monthly software licensing fees instantly. Secure your permanent, offline dark-mode corporate Excel operating workbook below:
 
-## ⚙️ Core Operational Infrastructure Engaged
-* **Roof Square Material Yield Matrices:** Advanced mathematical cell grids that instantly convert building dimensions into exact roof square counts, calculating required membrane sheets, insulation boards, fastener patterns, and waste margins on autopilot.
-* **Commercial Progress Billing & Retention Loops:** Hardcoded calculation tracks built to handle bank or general contractor retainage percentages, progress draws, and contract line-item balances natively.
-* **Crew Man-Hour & Equipment Balancing:** Real-time relational arrays that calculate safety compliance labor costs, flat-rate crane or hoist rentals, and sheet metal fabrication splits to flash absolute net margins per job.
+### [👉 PROCURE THE EXCEL OPERATION ENGINE NOW ($149.00)](https://rentalengine.gumroad.com)
 
-## 📦 Procurement & Secure Download Gateway
-To bypass legacy monthly SaaS subscription software and initialize your break-proof digital download container, choose your native operational platform pipeline below:
+*⚡ One-Time Corporate License. Permanent Local Ownership. Instant Vault Delivery.*
 
-### 🏗️ For Microsoft Excel Desktop Workspace ($149.00 One-Time Fee)
-👉 <a href="https://rentalengine.gumroad.com" target="_blank" rel="noopener noreferrer"><b>Procure the Commercial Roofing Excel OS Here</b></a>
+---
 
-*Developer Note: To bypass client drop-off, clicking procurement triggers a forced browser tab expansion loop. Developed by RentalEngine. Hardcoded macro-free integrity. All platform data rights reserved.*
+Welcome to the off-grid documentation node for the specialized Back-Office Operating System framework—a break-proof enterprise ledger engineered exclusively for elite Microsoft Excel (.xlsx) local deployments. Designed explicitly to lower monthly business software overhead, this standalone layout handles commercial dispatch tracking, real-time job costing, operational cost burn, and true net margin profit calculations natively on background formula automation.
+
+🔒 **100% Corporate Vault-Secured:** This industrial spreadsheet utility is completely Macro-Free, formula-locked, and cleared of tracking scripts to instantly satisfy strict company data firewalls.
