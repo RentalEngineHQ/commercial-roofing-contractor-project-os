@@ -1,4 +1,5 @@
-# commercial-roofing-contractor-project-os
+# Commercial Roofing Job Costing Spreadsheet Excel Template (No Subscriptions)
+
 Corporate Operations Back-Office Dashboard & Standalone Management Engine
 
 <p align="center">
@@ -8,7 +9,7 @@ Corporate Operations Back-Office Dashboard & Standalone Management Engine
 ### 🔑 SECURE ENTERPRISE PROCURE CONDUIT
 Bypass bloated monthly software licensing fees instantly. Secure your permanent, offline dark-mode corporate Excel operating workbook below:
 
-### [👉 PROCURE THE EXCEL OPERATION ENGINE NOW ($149.00)](https://rentalengine.gumroad.com)
+### [👉 PROCURE THE EXCEL OPERATION ENGINE NOW ($149.00)](https://rentalengine.gumroad.com/l/ulzyr)
 
 *⚡ One-Time Corporate License. Permanent Local Ownership. Instant Vault Delivery.*
 
