@@ -1,0 +1,14 @@
+{
+  "asset_class": "Commercial Roofing Job Costing Spreadsheet Excel Template",
+  "build_parameters": {
+    "macro_free": true,
+    "responsive_scale_target": "85%",
+    "canvas_base": "Matte-Black Theme"
+  },
+  "operational_matrices": [
+    "roofing_material_allocation_fields",
+    "membrane_yield_metrics",
+    "progress_billing_matrix",
+    "subcontractor_logs"
+  ]
+}
